@@ -31,3 +31,17 @@ body {
 .texte {
   text-align: justify;
 }
+
+.navbar {
+  background-color:#4DAA00 !important;
+}
+
+.nav-link:hover {
+   text-decoration-color: white;
+}
+
+.py-5 {
+  background-color:#4DAA00 !important;
+}
+
+
